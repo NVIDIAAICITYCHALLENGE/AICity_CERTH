@@ -17,7 +17,7 @@ Here is an example from the **_aic480_** dataset:
 
 ![Detection 480](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture2.png)
 
-And another one from the **_aic540_** dataset:
+and another one from the **_aic540_** dataset:
 
 ![Detection 540](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture1.png)
 
