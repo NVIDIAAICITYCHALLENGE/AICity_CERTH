@@ -1,7 +1,11 @@
-Requirements:
-    -scipy
-    -sklearn
-    -tqdm
-    -pandas
-    -keras (tf backend)
-    -opencv-python
+- [x] Requirements:
+
+- scipy
+- sklearn
+- tqdm
+- pandas
+- keras (tf backend)
+- opencv-python
+
+
+- [ ] Instructions
