@@ -32,7 +32,7 @@ You should start by setting up the required environment.
 
 The code is written for Python 2.7 and the project makes heavy use of the TensorFlow's Object Detection API that was recently released by Google. You can find it here:  https://github.com/tensorflow/models/tree/master/object_detection.
 
-Once you have those installed read the instructions inside the CERTH_RCNN folder to get started on predicted bounding boxes for your images using our provided models. You can even train your own model by following the numerous tutorials included in the Object Detection API repo.
+Once you have those installed read the instructions inside the CERTH_RCNN folder to get started on predicted bounding boxes for your images using our provided models. You can even train your own model by following the numerous tutorials included in the Object Detection API repo. In that case you will need to modify our code to run it on your model but you can at the very least use it as a base to start.
 
 After you have succesfully extracted vehicle detections from the RCNN you can also try our DeepHOG and Ensemble models and the CERTH_KCF vehicle tracking script.
 
@@ -40,4 +40,4 @@ After you have succesfully extracted vehicle detections from the RCNN you can al
 Please send me an e-mail with your comments and/or questions in `giannakeris@iti.gr`
 
 ### Disclaimer:
-This piece of software is still a work in progress and may contain project-specific pieces of code that may not work well on your developed models.
+This piece of software is still a work in progress and may contain project-specific written pieces of code that may not work well on your developed models.
