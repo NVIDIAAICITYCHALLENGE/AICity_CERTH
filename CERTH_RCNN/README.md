@@ -34,4 +34,6 @@ pip install tqdm
 ```
 python test_nn.py
 ```
-- Once the code finishes you will have a txt file for every image containing bounding box coordinates, classes and scores for each box!
+- Once the code finishes you will have a txt file for every image containing bounding box coordinates, classes and scores for each box! :blue_car::police_car::oncoming_police_car::car::red_car::ambulance::oncoming_bus::vertical_traffic_light::oncoming_automobile::bus::fire_engine::truck:
+
+/play rollout
