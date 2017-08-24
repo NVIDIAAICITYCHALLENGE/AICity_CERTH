@@ -30,7 +30,9 @@ We also perform **vehicle tracking** on sequences taken from traffic surveillanc
 There are three folders, one for each inplementation and there are README files in each one to help you get started.
 You should start by setting up the required environment.
 
-The code is written for Python 2.7 and the project makes heavy use of the TensorFlow's Object Detection API that was recently released by Google. You can find it here:  https://github.com/tensorflow/models/tree/master/object_detection.
+The code is written for Python 2.7 and the project makes heavy use of the TensorFlow's Object Detection API that was recently released by Google. You can find it here:  https://github.com/tensorflow/models/tree/master/object_detection. 
+
+*The code has not been tested on Windows machine.*
 
 Once you have those installed read the instructions inside the CERTH_RCNN folder to get started on predicted bounding boxes for your images using our provided models. You can even train your own model by following the numerous tutorials included in the Object Detection API repo. In that case you will need to modify our code to run it on your model but you can at the very least use it as a base to start.
 
