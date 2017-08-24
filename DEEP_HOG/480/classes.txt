@@ -1,0 +1,10 @@
+Bus
+Van
+LargeTruck
+MediumTruck
+Motorcycle
+Car
+Bicycle
+SmallTruck
+Pedestrian
+SUV

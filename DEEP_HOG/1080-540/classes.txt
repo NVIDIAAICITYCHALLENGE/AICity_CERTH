@@ -1,0 +1,14 @@
+Bus
+Van
+LargeTruck
+TrafficSignal-Yellow
+MediumTruck
+Motorcycle
+Car
+Bicycle
+SmallTruck
+Pedestrian
+TrafficSignal-Green
+SUV
+GroupOfPeople
+TrafficSignal-Red
