@@ -19,5 +19,4 @@ We also perform vehicle tracking on sequences taken from traffic surveillance ca
 
 There are
 
-![Tracking](/samples/Pictude3.png)
-Format: ![Alt Text](url)
+![Tracking](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture3.png)
