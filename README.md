@@ -13,7 +13,12 @@ CERTH-RCNN uses a modification of the original Faster R-CNN. We used the Faster-
 
 For DeepHOG vehicle detection, we used Histograms of Oriented Gradients(HOG) as a local appearance features to represent pedestrians and vehicle objects and encode them into a Fisher vector. HOG features were computed on the already predicted boxes of the RCNN.
 
+![Detection 480](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture2.png)
+
+![Detection 540](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture1.png)
+
 We also perform vehicle tracking on sequences taken from traffic surveillance cameras.
+
 ![Tracking](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture3.png)
 
 ### How to use the code
