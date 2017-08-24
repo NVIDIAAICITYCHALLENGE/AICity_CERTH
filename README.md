@@ -36,8 +36,8 @@ Once you have those installed read the instructions inside the CERTH_RCNN folder
 
 After you have succesfully extracted vehicle detections from the RCNN you can also try our DeepHOG and Ensemble models and the CERTH_KCF vehicle tracking script.
 
-### Contact info:
-Please send me an e-mail with your comments and/or questions in `giannakeris@iti.gr`
+### Contact info
+Feel free to contact us by e-mail expressing your comments and/or questions in `giannakeris@iti.gr`
 
-### Disclaimer:
+### Disclaimer
 This piece of software is still a work in progress and may contain project-specific written pieces of code that may not work well on your developed models.
