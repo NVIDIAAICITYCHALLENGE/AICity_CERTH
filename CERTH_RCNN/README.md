@@ -1,3 +1,16 @@
+## Models
+
+We have created two models. One for each training set [aic1080 & aic480].
+
+We use the 1080 model to detect objects on the 540 set as well.
+
+The folders contain the .config file that was used during training. You don't actually need this to test the model, nevertheless we provide it for anyone interested.
+There are also label map files that map each class with a unique id. This is required to run the tests.
+You will also need the inference graph file for each model which encodes the frozen weights that the model has converged to and is used by the test script. You can download from here:
+
+- 480: https://www.dropbox.com/s/u6b56bplmqo4t8v/output_inference_graph_480.pb?dl=0
+- 1080: https://www.dropbox.com/s/hns3zopbxmgww8m/output_inference_graph_1080.pb?dl=0
+
 ## Instructions
 
 - You need to have tensorflow-gpu installed
