@@ -21,7 +21,7 @@ And another one from the **_aic540_** dataset:
 
 ![Detection 540](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture1.png)
 
-We also perform **vehicle tracking** on sequences taken from traffic surveillance cameras.
+We also perform **vehicle tracking** on sequences taken from traffic surveillance cameras:
 
 ![Tracking](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture3.png)
 
