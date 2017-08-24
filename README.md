@@ -7,7 +7,7 @@ Vehicle detection in this work is deployed by following two approaches:
 * **CERTH-RCNN** 
 * **DeepHOG**
 
-An **ensemble** framework is also investigated as a complementary approach so as to study the impact that the fusion of the the two. Object localization in both cases is performed by using the Region Proposal Network (RPN) that **CERTHCNN** uses.
+An **ensemble** framework is also investigated as a complementary approach so as to study the impact that the fusion of the the two. Object localization in both cases is performed by using the Region Proposal Network (RPN) that **CERTH-RCNN** uses.
 
 **CERTH-RCNN** uses a modification of the original Faster R-CNN. We used the *Faster-RCNN-Resnet101* model that is pretrained on the *COCO* dataset and tuned it on *NVIDIA AI city* dataset, so as to be able to detect vehicles in video frames.
 
@@ -27,5 +27,17 @@ We also perform **vehicle tracking** on sequences taken from traffic surveillanc
 
 ### How to use the code
 
-There are
+There are three folders, one for each inplementation and there are README files in each one to help you get started.
+You should start by setting up the required environment.
 
+The code is written for Python 2.7 and the project makes heavy use of the TensorFlow's Object Detection API that was recently released by Google. You can find it here:  https://github.com/tensorflow/models/tree/master/object_detection.
+
+Once you have those installed read the instructions inside the CERTH_RCNN folder to get started on predicted bounding boxes for your images using our provided models. You can even train your own model by following the numerous tutorials included in the Object Detection API repo.
+
+After you have succesfully extracted vehicle detections from the RCNN you can also try our DeepHOG and Ensemble models and the CERTH_KCF vehicle tracking script.
+
+### Contact info:
+Please send me an e-mail with your comments and/or questions in `giannakeris@iti.gr`
+
+### Disclaimer:
+This piece of software is still a work in progress and may contain project-specific pieces of code that may not work well on your developed models.
