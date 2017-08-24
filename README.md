@@ -25,7 +25,7 @@ We also perform **vehicle tracking** on sequences taken from traffic surveillanc
 
 ![Tracking](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture3.png)
 
-You can always find more on our paper we submitted for the NVIDIA AI CITY Challenge.
+You can always find more on our paper submitted for the NVIDIA AI CITY Challenge.
 
 ### How to use the code
 
