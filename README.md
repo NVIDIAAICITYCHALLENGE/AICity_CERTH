@@ -25,6 +25,8 @@ We also perform **vehicle tracking** on sequences taken from traffic surveillanc
 
 ![Tracking](https://github.com/NVIDIAAICITYCHALLENGE/AICity_CERTH/blob/master/samples/Picture3.png)
 
+You can always find more on our paper we submitted for the NVIDIA AI CITY Challenge.
+
 ### How to use the code
 
 There are three folders, one for each inplementation and there are README files in each one to help you get started.
@@ -34,9 +36,9 @@ The code is written for Python 2.7 (Linux OS) and the project makes heavy use of
 
 *The code has not been tested on a Windows machine.*
 
-Once you have those installed read the instructions inside the CERTH_RCNN folder to get started on predicted bounding boxes for your images using our provided models. You can even train your own model by following the numerous tutorials included in the Object Detection API repo. In that case you will need to modify our code to run it on your model but you can at the very least use it as a base to start.
+Once you have those installed read the instructions inside the CERTH_RCNN folder to get started on detecting bounding boxes for your images using our provided models. You can even train your own model by following the numerous tutorials included in the Object Detection API repo. In that case you will need to modify our code to run it on your model but you can at the very least use this as a base to start.
 
-After you have succesfully extracted vehicle detections from the RCNN you can also try our DeepHOG and Ensemble models and the CERTH_KCF vehicle tracking script.
+After you have succesfully extracted vehicle bounding boxes from the CERTH_RCNN we recommend giving our DeepHOG and Ensemble models a try as well as the CERTH_KCF vehicle tracking script.
 
 ### Contact info
 Feel free to contact us by e-mail expressing your comments and/or questions in `giannakeris@iti.gr`
