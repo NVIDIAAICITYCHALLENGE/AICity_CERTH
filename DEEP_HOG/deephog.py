@@ -19,7 +19,7 @@ import pandas
 import numpy as np
 import keras
 import os
-from tqdm import tqdm
+from tqdm import *
 from scipy.stats import multivariate_normal
 from sklearn.decomposition import PCA
 from sklearn.externals import joblib
