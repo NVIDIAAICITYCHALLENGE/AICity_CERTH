@@ -23,4 +23,4 @@ Open `deephog.py` and edit the required paths and variables.
 
 Run python ```python deephog.py``` and wait while the script calculates a Fisher Vector representation, then classifies the box based on our trained DeepHOG pipeline (read the paper for more info) and finally outputs the result .txt files in the same format as the **CERTH_RCNN**.
 
-Note that the script executes both the **DeepHOG** and the **Ensemble** models in one go. You can disable one of them by commenting the appropriate lines.
+Note that the script executes both the **DeepHOG** and the **Ensemble** models in one go.
