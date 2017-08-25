@@ -41,7 +41,7 @@ Once you have those installed read the instructions inside the CERTH_RCNN folder
 After you have succesfully extracted vehicle bounding boxes from the CERTH_RCNN we recommend giving our DeepHOG and Ensemble models a try as well as the CERTH_KCF vehicle tracking script.
 
 ### Contact info
-Feel free to contact us by e-mail expressing your comments and/or questions in `giannakeris@iti.gr`
+Feel free to contact us by e-mail expressing your comments and/or questions at `giannakeris@iti.gr`
 
 ### Disclaimer
 This piece of software is still a work in progress and may contain project-specific written pieces of code that may not work well on your developed models.
