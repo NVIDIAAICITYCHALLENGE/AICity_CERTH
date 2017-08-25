@@ -45,3 +45,8 @@ Feel free to contact us by e-mail expressing your comments and/or questions at `
 
 ### Disclaimer
 This piece of software is still a work in progress and may contain project-specific written pieces of code that may not work well on your developed models.
+
+In case you want to use this code on your own project please cite our work:
+
+_K.Avgerinakis, P.Giannakeris, A.Briassouli, A.Karakostas, S.Vrochidis, I.Kompatsiaris, "Intelligent traffic city management from surveillance systems (CERTH-ITI)", IEEE Smart World congress, NVIDIA AI city challenge, 2017_
+
